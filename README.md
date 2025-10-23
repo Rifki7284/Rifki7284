@@ -45,9 +45,8 @@
 ---
 
 ### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.dev/api?username=Rifki7284&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.dev/api/top-langs/?username=Rifki7284&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Rifki7284&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifki7284&layout=compact&theme=radical" alt="Top Languages" /> 
 </p>
 
 ---
