@@ -10,6 +10,16 @@
 
 ---
 
+### 🧠 Languages  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack  
 
 #### 💻 Frontend  
@@ -36,8 +46,8 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rifki7284&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifki7284&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.dev/api?username=Rifki7284&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.dev/api/top-langs/?username=Rifki7284&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -50,9 +60,6 @@
   <a href="mailto:rifkiahmadrivera07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> -->
 </p>
 
 ---
